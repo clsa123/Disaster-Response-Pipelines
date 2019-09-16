@@ -7,5 +7,5 @@ The goal of this project is to build a machine learning pipeline and productioni
 ## Description
 
 ### Data
-    message.csv
-    categories.csv
+   message.csv
+   categories.csv
