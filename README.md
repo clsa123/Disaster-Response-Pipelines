@@ -2,7 +2,7 @@
 
 ## Motivation
 
-The goal of this project is to build a machine learning pipeline and productionize the model by leverage data engineering and machine learning skills.
+The goal of this project is to build a machine learning pipeline and productionize the model by leveraging data engineering and machine learning skills.
 
 ## Description
 
